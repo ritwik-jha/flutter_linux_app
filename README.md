@@ -1,4 +1,4 @@
-# Linux App 
+# LINUX APP
 This app is created by integrating the app with linux backend and firebase.
 The command entered by the user is sent to the backend server where it is run and then stored in the firebase firestore storage.
 Further if we want to retrieve the output we can use the retrieve option which will take us to the output page, which is created using 
